@@ -2,33 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MSc AI Student at UCL · AI Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>London, United Kingdom</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an MSc Artificial Intelligence student at University College London with a First Class BSc in Computer Science. My research interests center on evaluation, reliability, and human alignment of AI systems, particularly in settings where automated metrics diverge from human judgment.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My recent work focuses on generative AI for music and media, with an emphasis on evaluation beyond surface-level fidelity. I am the author of EchoScript, a script-aware fine-tuning framework for cinematic music generation, published at an AAAI Summer Symposium. Through this work, I became especially interested in the limitations of black-box generation and the role of structured evaluation, perceptual alignment, and uncertainty-aware assessment in modern AI systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+More broadly, I am interested in:
+
+Human-centered and perception-driven AI evaluation
+
+Reliability and robustness of generative models
+
+Misalignment between automated metrics and human judgment
+
+AI systems grounded in real-world signals rather than static benchmarks
+
+Music and audio are one application domain I work in, but my core research interests extend to areas such as scientific machine learning, embodied or dynamic systems, and AI evaluated against physical or biological reality.
+
+I am currently exploring PhD directions and funded doctoral opportunities, with a focus on strong supervisor fit, long-term intellectual growth, and research that bridges theory with real-world evaluation challenges.
